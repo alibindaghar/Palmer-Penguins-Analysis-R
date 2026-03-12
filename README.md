@@ -19,7 +19,7 @@ The visualization clearly shows a positive correlation between flipper length an
 3. Run the `analysis.R` script.
 
 ## Visualization
-![Penguin Analysis](Penguin_Analysis.png)
+![Penguin Analysis](Penguin_Analysis_R_Visualization.png)
 
 ---
 **Developed by: Ali Sultan** *Data Analytics Professional | Python & SQL Enthusiast*
